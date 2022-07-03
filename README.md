@@ -5,12 +5,17 @@ This project is a mysql database and application backend for an e-commerce site.
 
 Below is a gif demonstrating the functionality of the application:
 
+![CRUD](./demo-gif/demo.gif)
+
 ## Installation
 Run these commands to install the dependencies:
 
 `npm init`
 
 `npm install mysql2 sequelize dotenv express`
+
+Create a file in the root of your project called ".env".
+In this file, store your MySQL login information in the variables DB_NAME, DB_USER, AND DB_PASSWORD.
 
 ## Usage 
 Run the following commands at the root of your project:
