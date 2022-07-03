@@ -7,6 +7,8 @@ Below is a gif demonstrating the functionality of the application:
 
 ![CRUD](./demo-gif/demo.gif)
 
+This video can also be seen at: https://drive.google.com/file/d/1X0uGMKS1zl7dE85XAM3_c9YAatc1sqaT/view
+
 ## Installation
 Run these commands to install the dependencies:
 
